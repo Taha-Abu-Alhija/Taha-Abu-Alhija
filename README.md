@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Taha-Abu-Alhija
+- 👀 I’m interested in Game's Development and Web Development
+- 🌱 I’m currently learning Unity Basic's and HTML, CSS
+- 💞️ I’m looking to collaborate on an AI horror game project 
+- 📫 How to reach me (hijabusiness40@gmail.com)
