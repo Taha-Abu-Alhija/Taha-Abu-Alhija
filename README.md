@@ -45,5 +45,5 @@ A passionate Computer Science student and Software Developer focused on building
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/taha-abu-alhija)
+- 💼 [LinkedIn](https://www.linkedin.com/in/taha-abu-alhija-15bb16398)
 - 📧 [tahahija2005@gmail.com](mailto:tahahija2005@gmail.com)
