@@ -1,4 +1,4 @@
-# Hi, I'm Taha Hija 👋
+# Hi, I'm Taha Abu AlHija 👋
 
 A passionate Computer Science student and Software Developer focused on building efficient applications and immersive digital experiences. 
 
@@ -45,5 +45,5 @@ A passionate Computer Science student and Software Developer focused on building
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/taha-abu-alhija-15bb16398/?isSelfProfile=true))
+- 💼 [LinkedIn](https://www.linkedin.com/in/taha-abu-alhija)
 - 📧 [tahahija2005@gmail.com](mailto:tahahija2005@gmail.com)
